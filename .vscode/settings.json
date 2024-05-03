@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["caracter"]
+  "cSpell.words": ["caracter"],
+  "java.debug.settings.onBuildFailureProceed": true
 }
